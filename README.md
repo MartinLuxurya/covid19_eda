@@ -1,4 +1,4 @@
-## **ANALYSIS OF COVID-19 IN SOUTH AMERICA**
+# **ANALYSIS OF COVID-19 IN SOUTH AMERICA**
 
 ![covid-19 red cell image](https://img.freepik.com/free-vector/covid19-coronavirus-red-virus-cell-spread-background-concept_1017-24697.jpg?w=2000)
 
