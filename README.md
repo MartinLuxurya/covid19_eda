@@ -4,6 +4,14 @@
 
 The aim of this project is to find out how SARS-CoV-2 (Covid-19) affected the south american region of the world, showcasing some techniques of data cleaning, data preparation, and data visualization.
 
+Some of the essential questions for developing this project are related to the number of cases on every country of the region, the number of deceased, the number of people vaccinated, etc.
+
+The data used for the analysis has been aqcuired from the covid-dateset csv pointed at https://github.com/owid/covid-19-data/tree/master/public/data. It contains a collection of the COVID-19 data maintained by Our World in Data, from February 2020 up to September 2022, and collects information from 218 countries from around the world. The information outside the scope of this project was despised.
+
+The tools used to handle the data were the Python packages Numpy and Pandas, and for visualization, the packages used were Matplotlib and Seaborn.
+
+
+
 **TABLE OF CONTENTS**
 * 1. Imports and reading dataset.
 In this step the packages used for the analysis are imported, and the dataset is loaded for further analysis.
