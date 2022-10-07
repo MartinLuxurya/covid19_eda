@@ -21,11 +21,12 @@ Data wrangling, sometimes referred to as data munging, is the process of transfo
 
 * 3. Exploratory Data Analysis (EDA) and Visualization.
 In this step the dataset is analyzed to perform initial investigations to discover patterns, spot anomalies, to test hypotesis and to check assumptions with the help of summary statistics and graphical representations. The distribution, correlation, relationship, composition and comparison of the data is addressed in this step.
-  -Quantitive and qualitative analysis: Asking and Answering Questions.
-  Did countries with more smokers had a bigger rate of death between the infected?
-  Is the rate of death higher in countries with a big share of the population older than 65 years old?
-  Which countries were the first to start applying vaccines against Covid-19? Are these countries the more developed?
-  Is human development index related to the number of infections? In other words, are countries less developed more affected by the virus?
+
+  - Quantitive and qualitative analysis: Asking and Answering Questions.
+    - Did countries with more smokers had a bigger rate of death between the infected?
+    - Is the rate of death higher in countries with a big share of the population older than 65 years old?
+    - Which countries were the first to start applying vaccines against Covid-19? Are these countries the more developed?
+    - Is human development index related to the number of infections? In other words, are countries less developed more affected by the virus?
   
 * 4. Presentation of findings: Conclusions.
 In this step the most significants insights are presented.
